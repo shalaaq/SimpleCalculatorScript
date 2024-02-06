@@ -19,3 +19,10 @@ def save_ph_number(*number):
     print(f'The list of phone numbers is {phone_numbers}')
     
 save_ph_number('0912', '0991')
+
+
+
+def get_remainder(a, b):
+    print(f'The remainder of these two nums is : ({a % b})')
+    
+get_remainder(10, 2)
