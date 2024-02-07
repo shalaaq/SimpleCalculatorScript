@@ -26,3 +26,10 @@ def get_remainder(a, b):
     print(f'The remainder of these two nums is : ({a % b})')
     
 get_remainder(10, 2)
+
+
+
+def get_division(a, b):
+    print(f'The division of these two nums is : ({a / b})')
+    
+get_division(120, 20)
