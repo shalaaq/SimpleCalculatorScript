@@ -33,3 +33,10 @@ def get_division(a, b):
     print(f'The division of these two nums is : ({a / b})')
     
 get_division(120, 20)
+
+
+
+def get_subtraction(a, b):
+    print(f'The subtraction of these two nums is : ({a - b})')
+    
+get_subtraction(120, 20)
